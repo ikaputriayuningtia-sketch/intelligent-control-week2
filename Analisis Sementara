@@ -1,0 +1,6 @@
+Pada coding ini mampu berjalan dengan baik mampu mengenali warna dasar dengan cukup baik
+Performa model: Model KNN cukup baik dalam mengenali warna dasar. Namun, masih terdapat kesalahan pada warna yang mirip, misalnya merah dan oranye.
+
+Pengaruh jumlah data: Penambahan jumlah data meningkatkan akurasi karena variasi warna lebih beragam. Sebaliknya, data yang sedikit membuat model sering keliru membedakan warna.
+
+Cara meningkatkan kinerja: Kinerja dapat ditingkatkan dengan menambah data dan menggunakan representasi warna lain seperti HSV. Alternatif lain adalah mencoba algoritma berbeda, misalnya Decision Tree atau SVM.
